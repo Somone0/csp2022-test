@@ -5,3 +5,6 @@ h2 {
 body {
   font-family: 'Times New Roman';
 }
+table, td {
+  border: 1px solid black;
+}
