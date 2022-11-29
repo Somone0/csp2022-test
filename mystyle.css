@@ -2,8 +2,9 @@ h2 {
   color: pink;
   font-size: 100pt;
 }
-body, head {
+body {
   font-family: Comic Sans MS;
+  background-image: url("74_27_7.jpg");
 }
 table, td {
   border: 1px solid black;
