@@ -19,3 +19,9 @@ table, td {
 .p3 {
   font-family: Courier;
 }
+.odd {
+  background-color: Red;
+}
+.even {
+  background-color: blue;
+}
