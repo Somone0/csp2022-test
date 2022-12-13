@@ -25,3 +25,7 @@ table, td {
 .even {
   background-color: blue;
 }
+section {
+  background-color: pink;
+  border: 25px solid purple;
+}
